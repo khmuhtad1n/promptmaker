@@ -1,3 +1,9 @@
+# Disclaimer
+AI-generated content will always make mistakes. This script is for educational purposes only. It is ultimately up to the moral judgment of each creator to review and refine the content generated.
+
+# Stop doing shit
+![Conversation Screenshot](/too_lol.jpeg)
+
 # Article Prompt Generator
 
 This Python script helps you generate detailed prompts for writing articles, meta descriptions, and keyphrase guidelines. It's designed to assist content creators in producing high-quality, SEO-optimized content with specific guidelines to avoid detection as AI-generated content.
@@ -19,7 +25,7 @@ This Python script helps you generate detailed prompts for writing articles, met
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/khmuhtad1n/article-prompt-generator.git
+    git clone https://github.com/yourusername/article-prompt-generator.git
     cd article-prompt-generator
     ```
 
@@ -63,3 +69,10 @@ Choose an article type:
 9. tips and advice
 Enter the number of your chosen article type: 2
 filename: sustainable_living_guide
+```
+
+#License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+Contributing
+Feel free to submit pull requests or open issues to improve this script. Contributions are welcome!
